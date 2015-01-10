@@ -1,0 +1,7 @@
+# Python virtualenv
+virtualenv
+# Mac finder files
+*.DS_Store
+# Python compiled files
+*.pyc
+
