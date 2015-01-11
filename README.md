@@ -20,7 +20,7 @@ can run commands on the vagrant box without having to use ssh every time.
 # Create the host python virtual environment
 $ virtualenv hostenv
 # Install the python requirements
-$ virtualenv/bin/pip install -r requirements_host.txt
+$ hostenv/bin/pip install -r requirements_host.txt
 ```
 ## Setup the vagrant box
 ```
